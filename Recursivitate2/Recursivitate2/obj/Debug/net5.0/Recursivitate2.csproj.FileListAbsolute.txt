@@ -1,0 +1,16 @@
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.csproj.AssemblyReference.cache
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.AssemblyInfoInputs.cache
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.AssemblyInfo.cs
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.csproj.CoreCompileInputs.cache
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.exe
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.deps.json
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.runtimeconfig.json
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.runtimeconfig.dev.json
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.dll
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\ref\Recursivitate2.dll
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\bin\Debug\net5.0\Recursivitate2.pdb
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.dll
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\ref\Recursivitate2.dll
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.pdb
+C:\Users\damar\OneDrive\Documenti\UEO\Bazele informaticii\Recursivitate2\Recursivitate2\Recursivitate2\obj\Debug\net5.0\Recursivitate2.genruntimeconfig.cache
